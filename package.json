@@ -1,0 +1,22 @@
+{
+  "name": "@JKCSS-CSS-Framework/jkcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKCSS-CSS-Framework/JKCSS.git"
+  },
+  "keywords": [
+    "JKCSS"
+  ],
+  "author": "jehankandy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JKCSS-CSS-Framework/JKCSS/issues"
+  },
+  "homepage": "https://github.com/JKCSS-CSS-Framework/JKCSS#readme"
+}
